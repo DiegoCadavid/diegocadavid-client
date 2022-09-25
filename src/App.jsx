@@ -1,7 +1,10 @@
 import { useState } from "react";
 import { useEffect } from "react";
+import { About } from "./components/about/About";
 import Header from "./components/header/Header";
+import Home from "./components/home/Home";
 import NavMenu from "./components/navMenu/NavMenu";
+import Skills from "./components/skills/Skills";
 
 function App() {
   const [theme, setTheme] = useState("light");
@@ -36,9 +39,12 @@ function App() {
   };
 
   return (
-    <div className="App bg-gradient-to-tr from-slate-100 to-slate-300 dark:from-slate-800 dark:to-slate-900 transition-colors ease-in h-screen ">
+    <div className="App bg-gradient-to-tr from-slate-100 to-slate-300 dark:from-slate-800 dark:to-slate-900 transition-colors ease-in min-h-screen ">
       <Header theme={theme} handleToggleTheme={handleToggleTheme} />
       <NavMenu />
+      <Home />
+      <About />
+      <Skills />
     </div>
   );
 }

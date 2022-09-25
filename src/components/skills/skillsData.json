@@ -1,0 +1,94 @@
+{
+  "frontend": [
+    {
+      "name": "HTML5",
+      "url": "https://cdn-icons-png.flaticon.com/512/732/732212.png"
+    },
+    {
+      "name": "CSS3",
+      "url": "https://cdn-icons-png.flaticon.com/512/732/732190.png"
+    },
+    {
+      "name": "JavaScript",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png"
+    },
+    {
+      "name": "React",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/800px-React.svg.png"
+    },
+    {
+      "name": "Vite",
+      "url": "https://vitejs.dev/logo-with-shadow.png"
+    },
+    {
+      "name": "React Router",
+      "url": "https://reactrouter.com/twitterimage.jpg"
+    },
+    {
+      "name": "Bootstrap",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1200px-Bootstrap_logo.svg.png"
+    },
+    {
+      "name": "MaterialUi",
+      "url": "https://mui.com/static/logo.png"
+    },
+    {
+      "name": "Tailwind",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png"
+    }
+  ],
+  "backend": [
+    {
+      "name": "NodeJS",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png"
+    },
+    {
+      "name": "Express",
+      "url": "https://cdn.buttercms.com/4XpulFfySpWyYTXuaVL2"
+    },
+    {
+      "name": "SocketIo",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Socket-io.svg/1024px-Socket-io.svg.png"
+    },
+    {
+      "name": "JWT",
+      "url": "https://miro.medium.com/max/480/1*qMC7g40mcQmeI3r-hMjY8Q.png"
+    },
+    {
+      "name": "BCrypt",
+      "url": "https://adampower.io/images/Technology_Logos/BCrypt_Logo.png"
+    }
+  ],
+  "Diseño": [
+    {
+      "name": "Photoshop",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1200px-Adobe_Photoshop_CC_icon.svg.png"
+    },
+    {
+      "name": "Ilustrator",
+      "url": "https://logodownload.org/wp-content/uploads/2017/04/adobe-Illustrator-logo-3-1.png"
+    },
+    {
+      "name": "Blender",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/2503px-Blender_logo_no_text.svg.png"
+    },
+    {
+      "name": "Figma",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg"
+    }
+  ],
+  "General": [
+    {
+      "name": "Git",
+      "url": "https://miro.medium.com/max/650/1*zzvdRmHGGXONZpuQ2FeqsQ.png"
+    },
+    {
+      "name": "NPM",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/1200px-Npm-logo.svg.png"
+    },
+    {
+      "name": "VScode",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png"
+    }
+  ]
+}

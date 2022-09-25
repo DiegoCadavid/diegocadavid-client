@@ -9,13 +9,13 @@ module.exports = {
         sans: ["Lato", "sans-serif"],
       },
       keyframes: {
-        fade: {
+        pop: {
           "0%": { opacity: 0, transform: "translate(50px, -50px) scale(0.5, .5)" },
           "100%": { opacity: 1, transform: "translate(0px, 0px) scale(1, 1)" },
         },
       },
       animation: {
-        fade: "fade .3s ease 1",
+        pop: "pop .3s ease 1",
       },
     },
   },

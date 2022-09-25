@@ -19,10 +19,10 @@ const iconsNav = [
 const Header = ({ theme, handleToggleTheme }) => {
   return (
     <div className="container mb-3 bg-slate-50 sm:rounded-b-lg mx-auto flex items-center justify-between p-5 dark:bg-slate-800 shadow transition-colors ease-in">
-      {/* LOGO */}
+      {/* Logo */}
       <div className="flex items-center justify-center">
-        <img className="h-16 hidden sm:block " src={logo} alt="Logo" />
-        <div className="sm:ml-3">
+        <img className=" h-8  sm:h-16  block" src={logo} alt="Logo" />
+        <div className="ml-2 sm:ml-3">
           <h1 className=" text-slate-600 m-0 font-serif font-semibold text-base sm:text-2xl dark:text-slate-100 ">
             {'<DiegoCadavid />'}
           </h1>
@@ -33,7 +33,7 @@ const Header = ({ theme, handleToggleTheme }) => {
       </div>
 
       {/* Social icons */}
-      <div className="flex gap-3 items-center">
+      <div className="flex gap-2 sm:gap-3 items-center">
         {iconsNav.map((icon) => {
           return (
             <a
