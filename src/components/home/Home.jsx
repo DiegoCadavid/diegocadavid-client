@@ -1,8 +1,16 @@
 import React from "react";
 import Typewriter from "typewriter-effect";
 import diegoAnimate from "../../assets/DiegoPortafolioAnimate.svg";
+import { ChevronDownIcon } from "@heroicons/react/24/solid";
 
 const Home = () => {
+
+  const handleScrollDown = () => {
+    const element = document.querySelector('#about');
+    element.scrollIntoView({behavior: "smooth", block: "center"})
+  }
+  
+
   return (
     <div
       id="home"
@@ -46,6 +54,10 @@ const Home = () => {
           src={diegoAnimate}
           alt="Diego animado (inicio)"
         />
+      </div>
+
+      <div className="w-full absolute inset-x-0 bottom-5 flex justify-center">
+        <ChevronDownIcon onClick={handleScrollDown} className="h-5 w-5 text-slate-500 dark:text-slate-200 active:scale-125 hover:cursor-pointer transition-all ease-linear"/>
       </div>
     </div>
   );

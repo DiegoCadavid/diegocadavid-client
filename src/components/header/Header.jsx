@@ -8,11 +8,11 @@ import { MoonIcon, SunIcon } from "@heroicons/react/24/solid";
 const iconsNav = [
   {
     tag: "Github",
-    url: "#",
+    url: "https://github.com/DiegoCadavid",
   },
   {
     tag: "Instagram",
-    url: "#",
+    url: "https://www.instagram.com/diegocadam55",
   },
 ];
 

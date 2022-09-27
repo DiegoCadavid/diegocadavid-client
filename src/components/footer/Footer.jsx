@@ -3,19 +3,19 @@ import React from "react";
 const linksNav = [
   {
     name: "Instagram",
-    url: "#",
+    url: "https://www.instagram.com/diegocadam55",
   },
   {
-    name: "Whatsapp",
-    url: "#",
+    name: "devchallenges.io",
+    url: "https://devchallenges.io/portfolio/DiegoCadavid",
   },
   {
     name: "Youtube",
-    url: "#",
+    url: "https://www.youtube.com/c/DiegoDcm",
   },
   {
     name: "Github",
-    url: "#",
+    url: "https://github.com/DiegoCadavid",
   },
 ];
 
@@ -28,7 +28,11 @@ const Footer = () => {
           {linksNav.map((e) => {
             return (
               <li key={e.name}>
-                <a href={e.url} className="underline text-sm underline-offset-4 hover:text-slate-300 transition-colors ease-linear">
+                <a
+                  href={e.url}
+                  target="_blank"
+                  className="underline text-sm underline-offset-4 hover:text-slate-300 transition-colors ease-linear"
+                >
                   {e.name}
                 </a>
               </li>
