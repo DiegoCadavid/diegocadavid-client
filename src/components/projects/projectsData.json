@@ -33,6 +33,36 @@
           "url": "https://fileupload-client-production.up.railway.app/"
         }
       ]
+    },
+    {
+      "name": "Pestalozzi",
+      "type": "fullstack",
+      "techologies": ["ExpressJS", "NodeJS", "React", "React Router", "Vite"],
+      "urlImage": "https://res.cloudinary.com/dd4p0ksdu/image/upload/v1664240653/file_upload_app/fqljnmx1p9xygohudsd9.png",
+      "description": "Pagina web para la institucion Pestalozzi la cual ofrece diseño moderno y eficiente para la comodidad del usuario, ademas de que contiene un panel de administrador para facilitar la actualizacion de contenido",
+      "buttons": [
+        {
+          "name": "code",
+          "url": "https://github.com/DiegoCadavid/pestalozzi-client"
+        },
+        {
+          "name": "preview",
+          "url": "https://pestalozzi-client-production.up.railway.app/"
+        }
+      ]
+    },
+    {
+      "name": "Cat wiki",
+      "type": "En desarrollo",
+      "techologies": ["ExpressJS", "NodeJS", "React", "React Router", "Vite"],
+      "urlImage": "https://res.cloudinary.com/dd4p0ksdu/image/upload/v1664241416/file_upload_app/zlnu09b0okx46nlfalur.png",
+      "description": "Reto en desarrollo de DevChanllenges.io",
+      "buttons": [
+        {
+          "name": "Reto",
+          "url": "https://devchallenges.io/challenges/f4NJ53rcfgrP6sBMD2jt"
+        }
+      ]
     }
   ]
 }

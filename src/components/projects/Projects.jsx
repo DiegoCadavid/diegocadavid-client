@@ -19,6 +19,7 @@ const Projects = () => {
             <ProjectsItem
               key={project.name}
               name={project.name}
+              type={project.type}
               technologies={project.techologies}
               urlImage={project.urlImage}
               description={project.description}
