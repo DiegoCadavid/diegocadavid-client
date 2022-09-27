@@ -21,7 +21,7 @@
       "url": "https://vitejs.dev/logo-with-shadow.png"
     },
     {
-      "name": "React Router",
+      "name": "R Router",
       "url": "https://reactrouter.com/twitterimage.jpg"
     },
     {
@@ -57,6 +57,9 @@
     {
       "name": "BCrypt",
       "url": "https://adampower.io/images/Technology_Logos/BCrypt_Logo.png"
+    }, {
+      "name" : "MongoDB",
+      "url" : "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/2560px-MongoDB_Logo.svg.png"
     }
   ],
   "Diseño": [

@@ -40,6 +40,7 @@ const Header = ({ theme, handleToggleTheme }) => {
               className="no-underline font-sans font-normal text-sm sm:text-base capitalize relative after:absolute after:h-0.5 after:bg-slate-500 after:-bottom-1 after:inset-x-1/2 hover:after:inset-x-2 after:transition-all after:ease-linear dark:text-slate-200 dark:after:bg-slate-300"
               key={icon.tag}
               href={icon.url}
+              target="_blank"
             >
               {icon.tag}
             </a>

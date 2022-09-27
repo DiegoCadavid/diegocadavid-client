@@ -4,8 +4,8 @@ import diegoImg from "../../assets/aboutme.jpg";
 
 export const About = () => {
   return (
-    <div className="container mx-auto max-w-4xl p-5 mt-0 sm:mt-32 sm:p-0">
-      <div className="bg-slate-50 dark:bg-slate-900 rounded overflow-hidden flex flex-col sm:flex-row items-center gap-1 py-8 sm:py-0 transition-colors ease-in">
+    <div id="about" className=" container mx-auto p-5  sm:p-0 min-h-screen  flex items-center justify-center">
+      <div className="bg-slate-50  max-w-4xl dark:bg-slate-900 rounded overflow-hidden flex flex-col sm:flex-row items-center gap-1 py-8 sm:py-0 transition-colors ease-in">
         <img
           className="w-32 h-32 sm:w-64 sm:h-full object-cover rounded-full sm:rounded-none"
           src={diegoImg}
@@ -16,7 +16,7 @@ export const About = () => {
             Sobre mi
           </h3>
           <p className="text-slate-600 dark:text-slate-300 mt-2">
-            Soy Diego Cadavid tengo 16 años y soy de Colombia, actualmente soy
+            Soy Diego Cadavid, tengo 16 años y soy de Colombia, actualmente soy
             estudiante de secundaria 9° del Pestalozzi. Me apasiona el desarrollo
             web en todas sus areas desde el <b> Frontend </b> hasta el
             <b> Bakend</b>, Amo 💟 realmente la programacion porque me abre un
