@@ -53,14 +53,18 @@
     },
     {
       "name": "Cat wiki",
-      "type": "En desarrollo",
+      "type": "FullStack",
       "techologies": ["ExpressJS", "NodeJS", "React", "React Router", "Vite"],
       "urlImage": "https://res.cloudinary.com/dd4p0ksdu/image/upload/v1664241416/file_upload_app/zlnu09b0okx46nlfalur.png",
-      "description": "Reto en desarrollo de DevChanllenges.io",
+      "description": "¿Quieres descubrir tu raza ideal? Catwiki es una wiki de gatos que te ofrecera informacion sobre cualquier raza de gatos! podras ver imagenes y caracteristicas ^^",
       "buttons": [
         {
-          "name": "Reto",
-          "url": "https://devchallenges.io/challenges/f4NJ53rcfgrP6sBMD2jt"
+          "name": "code",
+          "url": "https://github.com/DiegoCadavid/catwiki-client"
+        },
+        {
+          "name" : "preview",
+          "url": "https://catwiki-client-production.up.railway.app/"
         }
       ]
     }
