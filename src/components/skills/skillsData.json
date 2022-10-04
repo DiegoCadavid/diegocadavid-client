@@ -78,8 +78,13 @@
     {
       "name": "Figma",
       "url": "https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg"
+    },
+    {
+      "name": "Aseprite",
+      "url": "https://pbs.twimg.com/card_img/1574620602186534912/CXQrCp9v?format=png&name=small"
     }
   ],
+
   "General": [
     {
       "name": "Git",
@@ -92,6 +97,30 @@
     {
       "name": "VScode",
       "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png"
+    },
+    {
+      "name": "VS",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/2060px-Visual_Studio_Icon_2019.svg.png"
+    }
+ 
+  ],
+  "Creacion de videojuegos (No realizo juegos actualmente)" : [
+    {
+      "name": "Unity",
+      "url": "https://seeklogo.com/images/U/unity-logo-988A22E703-seeklogo.com.png"
+    },
+    {
+      "name": "Gamemaker",
+      "url": "https://www.clevbrain.com/wp-content/uploads/2020/01/game-1.png"
+    },
+    {
+      "name": "Construct 2",
+      "url": "https://aggd.files.wordpress.com/2013/02/construct-2-logo.png?w=584"
+    },
+    {
+      "name": "c#",
+      "url": "https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png"
     }
   ]
+  
 }

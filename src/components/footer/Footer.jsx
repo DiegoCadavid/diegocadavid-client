@@ -1,23 +1,7 @@
 import React from "react";
+import { data as dataLinks } from '../../socialLink.json';
 
-const linksNav = [
-  {
-    name: "Instagram",
-    url: "https://www.instagram.com/diegocadam55",
-  },
-  {
-    name: "devchallenges.io",
-    url: "https://devchallenges.io/portfolio/DiegoCadavid",
-  },
-  {
-    name: "Youtube",
-    url: "https://www.youtube.com/c/DiegoDcm",
-  },
-  {
-    name: "Github",
-    url: "https://github.com/DiegoCadavid",
-  },
-];
+const linksNav = dataLinks;
 
 const Footer = () => {
   return (

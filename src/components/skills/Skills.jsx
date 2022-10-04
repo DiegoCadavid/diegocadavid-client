@@ -64,7 +64,7 @@ const Skills = () => {
         >
           <ChevronLeftIcon />
         </button>
-        <h6 className="capitalize"> {skillsIndex.name} </h6>
+        <h6 className="capitalize text-center"> {skillsIndex.name} </h6>
         <button
           className="w-5 h-5 active:text-slate-400 transition-all ease-in-out"
           onClick={handleNext}
