@@ -13,7 +13,7 @@
         },
         {
           "name": "preview",
-          "url": "https://unplash-client-production.up.railway.app/"
+          "url": "https://unplash.vercel.app/"
         }
       ]
     },
@@ -30,7 +30,7 @@
         },
         {
           "name": "preview",
-          "url": "https://fileupload-client-production.up.railway.app/"
+          "url": "https://diegocadavid-fileupload.vercel.app/"
         }
       ]
     },
@@ -47,7 +47,7 @@
         },
         {
           "name": "preview",
-          "url": "https://pestalozzi-client-production.up.railway.app/"
+          "url": "https://pestalozzi.vercel.app/"
         }
       ]
     },
@@ -64,7 +64,7 @@
         },
         {
           "name" : "preview",
-          "url": "https://catwiki-client-production.up.railway.app/"
+          "url": "https://diegocadavid-catwiki.vercel.app/"
         }
       ]
     }
