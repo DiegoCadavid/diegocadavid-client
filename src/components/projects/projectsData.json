@@ -67,6 +67,23 @@
           "url": "https://diegocadavid-catwiki.vercel.app/"
         }
       ]
+    },
+    {
+      "name": "Dinamic",
+      "type": "FullStack",
+      "techologies": ["ExpressJS", "NodeJS", "React", "React Router", "Vite"],
+      "urlImage": "https://res.cloudinary.com/dd4p0ksdu/image/upload/v1665692527/file_upload_app/n2tsb401vyhavgllbev7.png",
+      "description": "Crea una API REST ( CRUD ) con sus respectivas validaciones de tu modelo de moongose facilmente. ademas Dinamic te ofrece una interfaz para probar tu API creada en Dinamic",
+      "buttons": [
+        {
+          "name": "code",
+          "url": "https://github.com/DiegoCadavid/dinamic-client"
+        },
+        {
+          "name" : "preview",
+          "url": "https://diegocadavid-dinamic.vercel.app/"
+        }
+      ]
     }
   ]
 }
