@@ -41,7 +41,7 @@ const ProjectsItem = ({
         </div>
 
         {/* Descripcion */}
-        <p className="mt-2 h-16 2xl:h-28 overflow-x-auto text-ellipsis text-slate-600 dark:text-slate-300">
+        <p className="mt-2 h-16 2xl:h-20 overflow-x-auto text-ellipsis text-slate-600 dark:text-slate-300">
           {description}
         </p>
 

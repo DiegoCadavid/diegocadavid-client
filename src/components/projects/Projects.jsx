@@ -4,11 +4,8 @@ import projectData from "./projectsData.json";
 
 const Projects = () => {
   return (
-    <div
-      id="projects"
-      className="container mx-auto flex flex-col items-center  "
-    >
-      <h4 className="text-center text-xl sm:text-2xl text-slate-800 dark:text-slate-100 font-serif ">
+    <div id="projects" className="container mx-auto flex flex-col items-center  ">
+      <h4 className="text-center text-xl sm:text-2xl text-slate-800 dark:text-slate-100 font-serif" >
         Mis proyectos
       </h4>
       {/* PROJECTS CONTAINER */}
